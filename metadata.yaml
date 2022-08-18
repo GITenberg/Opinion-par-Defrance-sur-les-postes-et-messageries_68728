@@ -1,0 +1,30 @@
+_repo: Opinion-par-Defrance-sur-les-postes-et-messageries_68728
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defrance, Jean Claude
+    alias: Defrance, Jean-Claude
+    birthdate: 1743
+    deathdate: 1807
+    gutenberg_agent_id: '33740'
+    url: http://www.gutenberg.org/2009/agents/33740
+description: ''
+gutenberg_issued: '2022-08-11'
+identifiers:
+  gutenberg: '68728'
+language: fr
+pgterms:marc904: https://archive.org/details/opinionpardefran00defr/mode/2up
+pgterms:marc905: 20060312204958defrance
+pgterms:marc906: '1796'
+pgterms:marc907: FR
+production_note: Adrian Mastronardi, Claudine Corbasson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: France :de l'Impr. Nationale,1796.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Opinion par Defrance, sur les postes et messageries
+url: http://www.gutenberg.org/ebooks/68728
