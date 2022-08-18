@@ -1,5 +1,8 @@
 _repo: Opinion-par-Defrance-sur-les-postes-et-messageries_68728
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68728-h/images/cover.jpg
 creator:
   author:
     agent_name: Defrance, Jean Claude
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33740'
     url: http://www.gutenberg.org/2009/agents/33740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68728#Opinion-par-Defrance-sur-les-postes-et-messageries
 gutenberg_issued: '2022-08-11'
 identifiers:
   gutenberg: '68728'
